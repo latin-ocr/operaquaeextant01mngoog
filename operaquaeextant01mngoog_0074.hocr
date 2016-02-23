@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant01mngoog_0074.png"; bbox 0 0 723 1213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 312 360 335 382">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 312 360 335 382">
+     <span class='ocr_line' id='line_1_1' title="bbox 312 360 335 382; baseline -0.043 0"><span class='ocrx_word' id='word_1_1' title='bbox 312 360 335 382; x_wconf 86' lang='lat' dir='ltr'>F.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 87 430 561 460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 87 430 561 460">
+     <span class='ocr_line' id='line_1_2' title="bbox 87 430 561 460; baseline -0.002 -5"><span class='ocrx_word' id='word_1_2' title='bbox 87 432 115 455; x_wconf 86' lang='lat' dir='ltr'>In</span> <span class='ocrx_word' id='word_1_3' title='bbox 136 431 274 454; x_wconf 83' lang='lat' dir='ltr'>Ulriehum</span> <span class='ocrx_word' id='word_1_4' title='bbox 290 430 561 460; x_wconf 67' lang='lat' dir='ltr'>&#39;Wirtenhergensem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 495 452 518">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 495 452 518">
+     <span class='ocr_line' id='line_1_3' title="bbox 197 495 452 518; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 197 495 325 517; x_wconf 59' lang='lat' dir='ltr'>Orationes</span> <span class='ocrx_word' id='word_1_6' title='bbox 344 497 452 518; x_wconf 68' lang='lat' dir='ltr'>quatuor.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant01mngoog_0312.png"; bbox 0 0 723 1213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 333 368 356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 333 368 356">
+     <span class='ocr_line' id='line_1_1' title="bbox 288 333 368 356; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 288 333 368 356; x_wconf 87' lang='lat' dir='ltr'>XXIII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 178 411 473 441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 178 411 473 441">
+     <span class='ocr_line' id='line_1_2' title="bbox 178 411 473 441; baseline -0.003 -11"><span class='ocrx_word' id='word_1_2' title='bbox 178 411 288 441; x_wconf 59' lang='lat' dir='ltr'><strong>Ulrichi</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 314 411 344 429; x_wconf 82' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_4' title='bbox 369 411 473 429; x_wconf 70' lang='lat' dir='ltr'>Hutten</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 111 459 537 501">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 111 459 537 501">
+     <span class='ocr_line' id='line_1_3' title="bbox 111 459 537 501; baseline -0.012 0"><span class='ocrx_word' id='word_1_5' title='bbox 111 459 537 501; x_wconf 45' lang='lat' dir='ltr'>20&#39;r5r12Nem0.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 309 546 344 558">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 309 546 344 558">
+     <span class='ocr_line' id='line_1_4' title="bbox 309 546 344 558; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 309 546 344 558; x_wconf 60' lang='grc' dir='ltr'>ΙΝ·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 203 600 449 619">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 203 600 449 619">
+     <span class='ocr_line' id='line_1_5' title="bbox 203 600 449 619; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 203 600 274 619; x_wconf 82' lang='lat' dir='ltr'>Nemo</span> <span class='ocrx_word' id='word_1_8' title='bbox 292 600 449 619; x_wconf 68' lang='lat' dir='ltr'>reviviscens.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 269 685 381 694">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 269 685 381 694">
+     <span class='ocr_line' id='line_1_6' title="bbox 269 685 381 694; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 269 685 381 694; x_wconf 52' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
